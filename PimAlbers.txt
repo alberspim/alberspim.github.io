@@ -1,5 +1,5 @@
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cd Developer/<!-- laglaglaglaglaglag -->About_PimAlbers
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->pimalbers.txt<br/><br/>
+<span id="a">pim@albers</span>:<span id="b">~</span><span id="c">$</span> cd Developer/<!-- laglaglaglaglaglag -->About_PimAlbers
+<span id="a">pim@albers</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->pimalbers.txt<br/><br/>
 My favorite code quote, "<span id="k">Abstraction is the elimination of the irrelevant and the amplification of the essential.</span>". <!-- sjkfhskjf -->
 
 Hey There! My name is Pim Albers. This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
